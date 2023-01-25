@@ -25,3 +25,7 @@ npm test
 ```bash
 REACT_APP_SERVER_URL="http://localhost:5154" npm start
 ```
+
+## CI/CD
+
+[![.NET](https://github.com/intrepion/intrepion-to-do-basic-rest-client-web-typescript-react-typescript/actions/workflows/node.js.yml/badge.svg?branch=main)](https://github.com/intrepion/intrepion-to-do-basic-rest-client-web-typescript-react-typescript/actions/workflows/node.js.yml)
